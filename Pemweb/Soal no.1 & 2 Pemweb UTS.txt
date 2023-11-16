@@ -1,0 +1,37 @@
+1. Apa yang dimaksud dengan framework pada pengembangan aplikasi?
+(jelaskan dengan bahasa yang mudah dimengerti, bukan secara
+harfiah/istilah)
+Jawab: Framework adalah alat yang dipakai dalam pembuatan situs web. Dengan memakai framework, kita nggak perlu bikin semuanya dari awal, cukup panggil kelas atau ID nya aja.
+Contoh simpelnya gini, bayangin lagi kita lagi pengen makan mie. Kalo nggak ada mie instan, artinya kita mesti bikin mie dari awal, mulai dari adonan mie, bumbu, 
+dan sebagainya. Pasti itu bakalan makan waktu lumayan lama, kan? Nah, ini sama aja kaya framework, kita bisa pakai alat yang udah ada tanpa harus mulai dari nol. 
+Misalnya, kita tinggal panggil kelas atau ID nya aja. Bayangin aja, kalo nggak ada framework, kita mesti bikin semuanya sendiri, CSS, JS, PHP, atau apapun itu, 
+dari awal. Wah, bisa-bisa butuh waktu bertahun-tahun buat ngerjain proyek web kita sendiri tanpa framework.
+
+2,1 Sebutkan tema project yang sedang digarap
+jawab: Saya bersama dengan kelompok saya mendapatkan tema projek desa
+
+2,2 Sebutkan anggota dari project yang sedang digarap, berikut dengan jobdesk dari masing-masing anggota!
+jawab: 1. M. Aldy Syaputra (22416255201019), bertugas sebagai ketua pada project ini,
+	jobdesk saya adalah untuk mengerjakan bagian sistem website yang tidak dilihat oleh pengguna atau biasa disebut sebgai backend
+       2. Muhammad Ridwan Ripaldi (22416255201093), saya bertugas untuk mengerjakan bagian tampilan-tampilan pada website atau yang biasa disebut frontend
+       3. Ahmad Dedy Iskandar (22416255201270), Jobdesk saya adalah untuk mengerjakan laporan dan Analisis Design Berorientasi Objek
+2,3 Jelaskan permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang kalian usung! (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+jawab: Menurut dari narasumber staff desa, desa belum memiliki sistem sehingga proses pendataan terhadap warga masih menggunakan Excel maupun ditulis di buku.
+       
+       Berdasarkan keterangan narasumber kami berencana membuat web app yang berfungsi untuk:
+	1. Membuat sistem yang terbagi menjadi dua hak akses, yaitu hak akses user untuk penduduk dan hak akses admin untuk staff desa.
+	2. Akun dengan hak akses user dapt digunakan sebagai:
+		a. Melihat, mencari dan memfilter data penduduk yang ada diweb app.
+		b. Dapat mengisi data diri secara mandiri.
+		c. Mencetak surat keterangan yang dibutuhkan oleh penduduk seperti suket kematian, suket domisili, dan lain-lain
+	3. Akun dengan hak akses admin dapat digunakan untuk:
+		a. Menginput Data penduduk yang masuk.
+		b. Melihat, mencari, dan memfilter data yang sudah diinputkan.
+		c. Mengubah jumlah penduduk.
+		d. Menghapus penduduk.
+		e. Melihat Rekap Penduduk.
+		f. Menginput dan mencetak surat surat yang sekiranya dibutuhkan oleh masyarakat, seperti suket Kematian, suket domisili, dan lain-lain
+
+3. Terdapat file show.php di root proyek yang menghasilkan tabel data produk,
+Didalam nya terdapat fitur “EDIT” dan “HAPUS”. Buatkan fitur “EDIT” dan
+“HAPUS” dan unggah source code di elearning/BOC!
